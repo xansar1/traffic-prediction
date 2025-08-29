@@ -2,8 +2,9 @@ import streamlit as st
 import requests
 import pandas as pd
 
-# Replace with your Render backend URL when deployed
-BACKEND_URL = "http://127.0.0.1:8000"
+
+API_URL = "https://traffic-backend.onrender.com"
+
 
 st.set_page_config(page_title="Traffic Prediction Dashboard", layout="wide")
 st.title("🚦 Real-Time Traffic Prediction")
