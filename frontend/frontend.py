@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import time
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://traffic-backend.onrender.com"
 
 st.set_page_config(page_title="Traffic Prediction Dashboard", layout="wide")
 
