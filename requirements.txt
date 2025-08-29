@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-nest_asyncio
-streamlit
-requests
-pandas
